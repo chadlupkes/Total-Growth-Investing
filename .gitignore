@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data (do not commit raw data)
+data/
